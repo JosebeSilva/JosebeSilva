@@ -1,6 +1,6 @@
 ## 👨‍💻 Professional Statement
 
-I am an aspiring cybersecurity professional driven by a strong interest in understanding how security threats impact both organizations and the people behind them. I value integrity, continuous learning, and believe that everyone deserves privacy and security online. I am motivated to apply these values to help organizations identify risks, strengthen their defenses, and build more resilient and trustworthy security practices.
+My name is Josebe, and I am an aspiring cybersecurity professional with a strong interest in understanding how security threats impact both organizations and the people behind them. I am passionate about technology, problem-solving, and continuous learning, and I value integrity and the belief that everyone deserves privacy and security online. I am motivated to apply these strengths to help organizations identify risks, strengthen their defenses, and build more resilient and trustworthy security practices.
 
 <!--
 **JosebeSilva/JosebeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
